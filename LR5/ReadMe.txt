@@ -2,4 +2,4 @@
 Инструкция для запуска:
 1. Переходим в .\quotes_project
 2. Запускаем докер docker run -p 8050:8050 scrapinghub/splash
-3. Вызываем запуск паука python test_spider.py
+3. Вызываем python test_spider.py
